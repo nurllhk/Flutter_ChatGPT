@@ -142,7 +142,7 @@ lib/features/
        |- home/
        |- image_generation/
        |- text_completion/
-       |- chat/  
+       |- chat gp/  
        
  lib/features/image_generation/
        |- data/
